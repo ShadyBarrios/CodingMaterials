@@ -1,0 +1,12 @@
+Watch this vid to set up g++ compiler: https://www.youtube.com/watch?v=sXW2VLrQ3Bs
+IT IS VERY IMPORTANT THAT YOU FOLLOW THE EXACT STEPS IN THE VIDEO
+Link:
+Mingw/G++: https://sourceforge.net/projects/mingw/
+
+Watch this vid to learn how to use VS Code (you will code in c++ here): https://youtu.be/jvg4VtYEhKU?t=190
+LIKE I SAID FOR G++ VID, FOLLOW ALL THE STEPS (I start it at a minute mark because
+if you did the mingw stuff the first 3 minutes are irrelevant)
+link:
+VS Code: https://code.visualstudio.com/
+I know a bunch of more stuff for vs code that isn't in the vid so lmk when/if u wanna
+know more.
