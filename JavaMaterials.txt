@@ -1,0 +1,14 @@
+Install these in order (installs the IDE used to code java)
+1) https://www.oracle.com/java/technologies/downloads/
+2) https://www.eclipse.org/downloads/
+-
+How to set up a java file:
+1) Create new Java Project
+   - Insert name -> continue or create
+2) Right click on src folder
+3) New -> Package (name it pkg)
+4) Right click on package 
+5) new -> file (*name*.java), the .java is vital
+6) on the first line, you must always write "package *package name*;"
+7) next, write "public class *file name without.java*"
+8) You should learn the rest in the textbook
